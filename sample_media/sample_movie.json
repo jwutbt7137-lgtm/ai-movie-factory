@@ -1,0 +1,8 @@
+{
+  "output": "E:\\dsh\\ai_movie_factory\\sample_media\\sample_movie.mp4",
+  "duration_s": 12.428999999999998,
+  "shot_count": 3,
+  "shot_duration_s": 4.143,
+  "narration": true,
+  "note": "合成测试素材，无版权风险；用于验证镜头切分、缩略图与语音识别。"
+}
